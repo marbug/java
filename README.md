@@ -25,3 +25,5 @@ TODO :)
 
 ## License ##
 [Read here](LICENSE)
+
+[next page: JavaSE Tutorial](se-tutorial.md)
