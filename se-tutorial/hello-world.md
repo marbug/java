@@ -1,4 +1,4 @@
 # Hello, World #
 
-* [Command-line/shell program](hell-world/shell.md)
+* [Command-line/shell program](hello-world/shell.md)
 * TODO
